@@ -1,4 +1,5 @@
-# GenAI-Journey
+# 🚀 Start Your GenAI Journey
+_A complete guide from Basics to Advanced_
 
 
 # 💡 **Generative AI (GenAI): Complete Guide from Basic to Advanced**
