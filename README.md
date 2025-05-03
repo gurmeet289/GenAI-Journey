@@ -29,7 +29,6 @@ _A complete guide from Basics to Advanced_
 
 ## 📊 **Visual Hierarchy: Where Does GenAI Fit?**
 
-    ```plaintext
     Artificial Intelligence
     │
     ├── Traditional AI
